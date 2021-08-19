@@ -3,7 +3,6 @@
     --preta:#141414;
 }
 
-
 *{
     margin: 0;
     padding: 0;
@@ -44,9 +43,9 @@ header nav a:hover{
 /*anime principal*/
 .anime-principal{
     font-size: 16px;
-    background: url('/img/berserk.png');
+    background: url(berserk.png);
 
-    height: 700px;
+    height: 600px;
     background-size: cover;
 
     display: flex;
@@ -105,3 +104,4 @@ color: black;
 .carrossel-animes{
     margin-top: 7px;
 }
+
